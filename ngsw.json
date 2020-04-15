@@ -1,0 +1,86 @@
+{
+  "configVersion": 1,
+  "timestamp": 1586950461562,
+  "index": "/covid19/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/covid19/favicon.ico",
+        "/covid19/index.html",
+        "/covid19/main-es2015.d30a48e3c2b779110349.js",
+        "/covid19/main-es5.d30a48e3c2b779110349.js",
+        "/covid19/manifest.webmanifest",
+        "/covid19/polyfills-es2015.690002c25ea8557bb4b0.js",
+        "/covid19/polyfills-es5.1fd9b76218eca8053895.js",
+        "/covid19/runtime-es2015.1eba213af0b233498d9d.js",
+        "/covid19/runtime-es5.1eba213af0b233498d9d.js",
+        "/covid19/scripts.b4bf80f04c4f882f9836.js",
+        "/covid19/styles.4313d172a1eb2e298229.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/covid19/assets/icons/apple-touch-icon.png",
+        "/covid19/assets/icons/icon-128x128.png",
+        "/covid19/assets/icons/icon-144x144.png",
+        "/covid19/assets/icons/icon-152x152.png",
+        "/covid19/assets/icons/icon-192x192.png",
+        "/covid19/assets/icons/icon-384x384.png",
+        "/covid19/assets/icons/icon-512x512.png",
+        "/covid19/assets/icons/icon-72x72.png",
+        "/covid19/assets/icons/icon-96x96.png",
+        "/covid19/assets/images/logo.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/covid19/assets/icons/apple-touch-icon.png": "808833d5d4d3113e8d6150719d1e479b3c94d642",
+    "/covid19/assets/icons/icon-128x128.png": "268678f863618086a0428e07aaa6ac6631d00801",
+    "/covid19/assets/icons/icon-144x144.png": "d3b873633c9c4ffca3c1df9245eab6b9762f629e",
+    "/covid19/assets/icons/icon-152x152.png": "0b1d1d905883d7d3c9ae85a5a10a063a5d514548",
+    "/covid19/assets/icons/icon-192x192.png": "5288b3317c90a1b67fdd6f78dcf5183288de2e3c",
+    "/covid19/assets/icons/icon-384x384.png": "b3e1d78f228df3f0f1fd780c9a5463dc083367d0",
+    "/covid19/assets/icons/icon-512x512.png": "8e01d319f085ce1afae482fe9bd6b6f3bd0c2b0b",
+    "/covid19/assets/icons/icon-72x72.png": "6e6708cbe4a5f54d77f991d227a58f28594f7e8d",
+    "/covid19/assets/icons/icon-96x96.png": "8be8f30d9c65a87f7a5f8ee94858fbd494c7de80",
+    "/covid19/assets/images/logo.png": "a69d4451043231e27427ec269b54f4877d13d1d7",
+    "/covid19/favicon.ico": "d42c05ed233fbdbeb8a1e75eaa14d74299e24d41",
+    "/covid19/index.html": "71d5f3df3b59c89d836300f5be1df009dc4739d2",
+    "/covid19/main-es2015.d30a48e3c2b779110349.js": "2ca0bcaabfe06b3464329455aaf39950bfbe5f57",
+    "/covid19/main-es5.d30a48e3c2b779110349.js": "bb27729eab2fcee0de9a2835b8d049776222784a",
+    "/covid19/manifest.webmanifest": "c09150ce0bad5261b2b186ef7549d37a75bb5048",
+    "/covid19/polyfills-es2015.690002c25ea8557bb4b0.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "/covid19/polyfills-es5.1fd9b76218eca8053895.js": "e51a1de4f016cd689dbdbef51043dec9518c4111",
+    "/covid19/runtime-es2015.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/covid19/runtime-es5.1eba213af0b233498d9d.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/covid19/scripts.b4bf80f04c4f882f9836.js": "002532426adb8785f586a788ee33c6975339a76e",
+    "/covid19/styles.4313d172a1eb2e298229.css": "eac057e6f41ff375e6fa36789991cc4eb591f2e8"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
