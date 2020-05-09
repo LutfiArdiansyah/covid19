@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1587133902085,
+  "timestamp": 1589031732405,
   "index": "/covid19/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "/covid19/favicon.ico",
         "/covid19/index.html",
-        "/covid19/main-es2015.89d0a86e3e2dd5832249.js",
-        "/covid19/main-es5.89d0a86e3e2dd5832249.js",
+        "/covid19/main-es2015.a9baea3ef51d910dc81e.js",
+        "/covid19/main-es5.a9baea3ef51d910dc81e.js",
         "/covid19/manifest.webmanifest",
         "/covid19/polyfills-es2015.690002c25ea8557bb4b0.js",
         "/covid19/polyfills-es5.1fd9b76218eca8053895.js",
@@ -27,6 +27,7 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
+        "/covid19/assets/data.json",
         "/covid19/assets/icons/apple-touch-icon.png",
         "/covid19/assets/icons/icon-128x128.png",
         "/covid19/assets/icons/icon-144x144.png",
@@ -43,6 +44,7 @@
   ],
   "dataGroups": [],
   "hashTable": {
+    "/covid19/assets/data.json": "9d2a3701d3fff1374681d695f210c113dacbadb1",
     "/covid19/assets/icons/apple-touch-icon.png": "808833d5d4d3113e8d6150719d1e479b3c94d642",
     "/covid19/assets/icons/icon-128x128.png": "268678f863618086a0428e07aaa6ac6631d00801",
     "/covid19/assets/icons/icon-144x144.png": "d3b873633c9c4ffca3c1df9245eab6b9762f629e",
@@ -54,9 +56,9 @@
     "/covid19/assets/icons/icon-96x96.png": "8be8f30d9c65a87f7a5f8ee94858fbd494c7de80",
     "/covid19/assets/images/logo.png": "a69d4451043231e27427ec269b54f4877d13d1d7",
     "/covid19/favicon.ico": "d42c05ed233fbdbeb8a1e75eaa14d74299e24d41",
-    "/covid19/index.html": "b2888c93d75e73cef41b818e6328bb15454557c2",
-    "/covid19/main-es2015.89d0a86e3e2dd5832249.js": "6ac10e813786b714621b22ddb951b3fbdc0f8031",
-    "/covid19/main-es5.89d0a86e3e2dd5832249.js": "8cd48931d1583398c3ed847aa1ea061ccdfa97f8",
+    "/covid19/index.html": "7be5b2b21c01764033514b8c4158cdcda2973d6a",
+    "/covid19/main-es2015.a9baea3ef51d910dc81e.js": "fdebd2454ee4d09c757518f6702a1f3d8693162d",
+    "/covid19/main-es5.a9baea3ef51d910dc81e.js": "a9164dea11c7be052ea8171a9d37755b88ce4e76",
     "/covid19/manifest.webmanifest": "018d0b02881409daee500a531030893b8c9cfec5",
     "/covid19/polyfills-es2015.690002c25ea8557bb4b0.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
     "/covid19/polyfills-es5.1fd9b76218eca8053895.js": "e51a1de4f016cd689dbdbef51043dec9518c4111",
