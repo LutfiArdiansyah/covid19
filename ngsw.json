@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1589031732405,
+  "timestamp": 1591621962524,
   "index": "/covid19/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "/covid19/favicon.ico",
         "/covid19/index.html",
-        "/covid19/main-es2015.a9baea3ef51d910dc81e.js",
-        "/covid19/main-es5.a9baea3ef51d910dc81e.js",
+        "/covid19/main-es2015.621d3bafa255eaca5732.js",
+        "/covid19/main-es5.621d3bafa255eaca5732.js",
         "/covid19/manifest.webmanifest",
         "/covid19/polyfills-es2015.690002c25ea8557bb4b0.js",
         "/covid19/polyfills-es5.1fd9b76218eca8053895.js",
@@ -56,9 +56,9 @@
     "/covid19/assets/icons/icon-96x96.png": "8be8f30d9c65a87f7a5f8ee94858fbd494c7de80",
     "/covid19/assets/images/logo.png": "a69d4451043231e27427ec269b54f4877d13d1d7",
     "/covid19/favicon.ico": "d42c05ed233fbdbeb8a1e75eaa14d74299e24d41",
-    "/covid19/index.html": "7be5b2b21c01764033514b8c4158cdcda2973d6a",
-    "/covid19/main-es2015.a9baea3ef51d910dc81e.js": "fdebd2454ee4d09c757518f6702a1f3d8693162d",
-    "/covid19/main-es5.a9baea3ef51d910dc81e.js": "a9164dea11c7be052ea8171a9d37755b88ce4e76",
+    "/covid19/index.html": "c27b191d12df2bfc08b5b50a240ccc131e0b05c6",
+    "/covid19/main-es2015.621d3bafa255eaca5732.js": "d951a24a107318d5a872d82664c3f1fb11e660c8",
+    "/covid19/main-es5.621d3bafa255eaca5732.js": "e44525ad6129acda3b2c66c5d229d03e4482fcb0",
     "/covid19/manifest.webmanifest": "018d0b02881409daee500a531030893b8c9cfec5",
     "/covid19/polyfills-es2015.690002c25ea8557bb4b0.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
     "/covid19/polyfills-es5.1fd9b76218eca8053895.js": "e51a1de4f016cd689dbdbef51043dec9518c4111",
