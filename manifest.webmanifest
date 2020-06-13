@@ -1,8 +1,8 @@
 {
   "name": "Covid19",
   "short_name": "Covid19",
-  "theme_color": "#ff0000",
-  "background_color": "#ff0000",
+  "theme_color": "#07646E",
+  "background_color": "#07646E",
   "display": "standalone",
   "scope": "/covid19/",
   "start_url": "/covid19/",
